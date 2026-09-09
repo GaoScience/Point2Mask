@@ -1,0 +1,80 @@
+Point2Mask Research-Only Non-Commercial License
+Version 1.0, 2026
+
+Copyright (c) 2026 Weihua Gao, Wenlong Niu, Jie Tang, Man Yang,
+Jiafeng Zhang, Xiaodong Peng, and Yang Zhan. All rights reserved.
+
+1. Definitions
+
+"Materials" means the source code, scripts, documentation, model architecture,
+and model weights distributed with this repository.
+
+"Research Use" means non-commercial academic research, reproducibility studies,
+teaching, and education carried out by an individual or a not-for-profit academic
+or research institution.
+
+"Commercial Use" means any use intended for or directed toward commercial
+advantage, monetary compensation, or the development or operation of a commercial
+product or service. Commercial Use includes, without limitation, paid consulting
+or contract research, internal research and development by a for-profit entity,
+use in a paid product or service, and training or improving a model intended for
+commercial deployment.
+
+2. Research license grant
+
+Subject to all terms of this License, the copyright holders grant you a limited,
+worldwide, non-exclusive, royalty-free license to use, copy,
+modify, and redistribute the Materials solely for Research Use.
+
+3. Conditions
+
+You must:
+
+a. retain this License, the copyright notice, and all author and attribution
+   notices in every copy or substantial portion of the Materials;
+b. clearly identify files that you modify;
+c. distribute modified or unmodified Materials only under this same License and
+   without imposing additional terms;
+d. not sublicense, sell, rent, lease, or otherwise commercially exploit the
+   Materials; and
+e. cite the following paper in any publication or public research report that
+   uses or is based on the Materials:
+
+   W. Gao, W. Niu, J. Tang, M. Yang, J. Zhang, X. Peng, and Y. Zhan,
+   "Point-to-Mask: A Two-Stage Framework for Infrared Small Target Detection
+   with Arbitrary Point Supervision," IEEE Transactions on Geoscience and
+   Remote Sensing, 2026, doi: 10.1109/TGRS.2026.3730901.
+
+4. Commercial use prohibited
+
+No Commercial Use is permitted without a separate written license from the
+copyright holders. For commercial licensing, contact the authors of the paper.
+
+5. No patent or trademark license
+
+This License does not grant any patent, trademark, trade-name, or branding rights.
+You may not use the authors' or institutions' names to endorse or promote derived
+products or services without prior written permission.
+
+6. Termination
+
+Your rights under this License terminate automatically if you fail to comply with
+any term. Upon termination, you must stop using and distributing the Materials and
+destroy all copies in your possession or control. Sections 4 through 8 survive
+termination.
+
+7. Separate dataset license
+
+This License does not apply to SIRSTD or any other dataset. SIRSTD is licensed
+separately under CC BY-NC 4.0 as described in DATASET_LICENSE.md. An identical
+copy of DATASET_LICENSE.md should be placed at the root of the SIRSTD dataset
+archive.
+
+8. Disclaimer and limitation of liability
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, OR RESEARCH RESULTS. IN NO EVENT
+SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR
+IN CONNECTION WITH THE MATERIALS OR THEIR USE.

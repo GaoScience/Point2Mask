@@ -1,0 +1,5 @@
+numpy>=1.23
+opencv-python>=4.6
+torch>=2.0
+tqdm>=4.64
+PyQt5>=5.15

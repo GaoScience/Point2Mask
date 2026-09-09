@@ -1,0 +1,9 @@
+*.zip
+images/*
+!images/.gitkeep
+masks/*
+!masks/.gitkeep
+YOLO_labels/*
+!YOLO_labels/.gitkeep
+splits/*
+!splits/.gitkeep

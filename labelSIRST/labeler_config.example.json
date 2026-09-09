@@ -1,0 +1,5 @@
+{
+  "img": "path/to/images",
+  "label": "path/to/yolo_bbox_labels",
+  "mask": "path/to/output_masks"
+}

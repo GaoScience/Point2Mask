@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the Point-to-Mask paper."
+type: software
+title: "Point2Mask: PAMG and RPR-Net for Infrared Small Target Mask Generation"
+authors:
+  - family-names: "Gao"
+    given-names: "Weihua"
+    orcid: "https://orcid.org/0009-0001-3016-9902"
+  - family-names: "Niu"
+    given-names: "Wenlong"
+    orcid: "https://orcid.org/0000-0003-1643-1705"
+  - family-names: "Tang"
+    given-names: "Jie"
+  - family-names: "Yang"
+    given-names: "Man"
+  - family-names: "Zhang"
+    given-names: "Jiafeng"
+  - family-names: "Peng"
+    given-names: "Xiaodong"
+    orcid: "https://orcid.org/0000-0002-7640-3194"
+  - family-names: "Zhan"
+    given-names: "Yang"
+version: 1.0.6
+date-released: 2026-09-09
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Gao"
+      given-names: "Weihua"
+      orcid: "https://orcid.org/0009-0001-3016-9902"
+    - family-names: "Niu"
+      given-names: "Wenlong"
+      orcid: "https://orcid.org/0000-0003-1643-1705"
+    - family-names: "Tang"
+      given-names: "Jie"
+    - family-names: "Yang"
+      given-names: "Man"
+    - family-names: "Zhang"
+      given-names: "Jiafeng"
+    - family-names: "Peng"
+      given-names: "Xiaodong"
+      orcid: "https://orcid.org/0000-0002-7640-3194"
+    - family-names: "Zhan"
+      given-names: "Yang"
+  title: "Point-to-Mask: A Two-Stage Framework for Infrared Small Target Detection with Arbitrary Point Supervision"
+  journal: "IEEE Transactions on Geoscience and Remote Sensing"
+  year: 2026
+  start: 1
+  end: 1
+  doi: "10.1109/TGRS.2026.3730901"
+  url: "https://ieeexplore.ieee.org/document/11683233/"
