@@ -20,7 +20,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-7640-3194"
   - family-names: "Zhan"
     given-names: "Yang"
-version: 1.0.6
+version: 1.0.0
 date-released: 2026-09-09
 preferred-citation:
   type: article
