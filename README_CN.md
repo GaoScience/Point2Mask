@@ -20,14 +20,19 @@ RPR-Net 使用时间差分注意力（Temporal Difference Attention，TDA）从�
 
 [[IEEE Xplore](https://ieeexplore.ieee.org/document/11683233/)] [[DOI](https://doi.org/10.1109/TGRS.2026.3730901)]
 
-## 演示视频
+## 演示
 
-| 演示内容 | 时长 | 视频 |
-|---|---:|---|
-| Label-IRST 标注与 PAMG 辅助掩膜生成 | 3 秒 | [观看视频](assets/label_irst_demo.mp4) |
-| 原始红外图像序列 | 4 秒 | [观看视频](assets/input_sequence.mp4) |
-| RPR-Net 检测圈输出 | 4 秒 | [观看视频](assets/rprnet_detection.mp4) |
-| RPR-Net + PAMG 掩膜输出 | 4 秒 | [观看视频](assets/rprnet_pamg.mp4) |
+### Label-IRST 标注与 PAMG 辅助掩膜生成
+
+<p align="center">
+  <img src="assets/label_irst_demo.gif" alt="Label-IRST 标注与 PAMG 辅助掩膜生成" width="900">
+</p>
+
+### 同步序列对比
+
+<p align="center">
+  <img src="assets/rprnet_comparison.gif" alt="原始序列、RPR-Net 检测圈与 RPR-Net 加 PAMG 掩膜对比" width="960">
+</p>
 
 ## 发布内容
 
@@ -38,7 +43,7 @@ RPR-Net 使用时间差分注意力（Temporal Difference Attention，TDA）从�
 - 半径掩膜以及 RPR-Net + PAMG 掩膜生成
 - Label-IRST 标注软件
 - SIRSTD 数据集训练的官方模型权重
-- Label-IRST、RPR-Net 和 PAMG 的演示视频
+- Label-IRST、RPR-Net 和 PAMG 的演示
 
 ## 安装
 

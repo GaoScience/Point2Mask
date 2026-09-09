@@ -28,26 +28,17 @@ This repository also includes Label-IRST, an interactive annotation tool with PA
 
 ## Demos
 
-https://github.com/user-attachments/assets/94aac7b4-3b07-4b70-8649-84c31cabfb90
+### Label-IRST annotation and PAMG-assisted mask generation
 
+<p align="center">
+  <img src="assets/label_irst_demo.gif" alt="Label-IRST annotation and PAMG-assisted mask generation" width="900">
+</p>
 
+### Synchronized sequence comparison
 
-https://github.com/user-attachments/assets/f28b874f-b6b1-4ef2-9dc1-e5151f030fc7
-
-
-
-https://github.com/user-attachments/assets/3306258e-7b5a-42a0-9a19-dfb11cff6cd0
-
-
-
-https://github.com/user-attachments/assets/54380112-7278-4b34-80a5-ddc0617e6ad8
-
-| Demonstration | Duration | Video |
-|---|---:|---|
-| Label-IRST annotation and PAMG-assisted mask generation | 3 s | [Watch video](assets/label_irst_demo.mp4) |
-| Original infrared sequence | 4 s | [Watch video](assets/input_sequence.mp4) |
-| RPR-Net detection output | 4 s | [Watch video](assets/rprnet_detection.mp4) |
-| RPR-Net + PAMG mask output | 4 s | [Watch video](assets/rprnet_pamg.mp4) |
+<p align="center">
+  <img src="assets/rprnet_comparison.gif" alt="Input sequence, RPR-Net detection, and RPR-Net plus PAMG comparison" width="960">
+</p>
 
 ## Released components
 
