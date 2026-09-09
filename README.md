@@ -1,3 +1,4 @@
+
 # Point2Mask
 
 Official implementation of PAMG and RPR-Net from the paper *Point-to-Mask: A
@@ -26,6 +27,20 @@ This repository also includes Label-IRST, an interactive annotation tool with PA
 [[IEEE Xplore](https://ieeexplore.ieee.org/document/11683233/)] [[DOI](https://doi.org/10.1109/TGRS.2026.3730901)]
 
 ## Demos
+
+https://github.com/user-attachments/assets/94aac7b4-3b07-4b70-8649-84c31cabfb90
+
+
+
+https://github.com/user-attachments/assets/f28b874f-b6b1-4ef2-9dc1-e5151f030fc7
+
+
+
+https://github.com/user-attachments/assets/3306258e-7b5a-42a0-9a19-dfb11cff6cd0
+
+
+
+https://github.com/user-attachments/assets/54380112-7278-4b34-80a5-ddc0617e6ad8
 
 | Demonstration | Duration | Video |
 |---|---:|---|
