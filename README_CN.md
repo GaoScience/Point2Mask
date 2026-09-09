@@ -25,7 +25,7 @@ RPR-Net 使用时间差分注意力（Temporal Difference Attention，TDA）从�
 ### Label-IRST 标注与 PAMG 辅助掩膜生成
 
 <p align="center">
-  <img src="assets/label_irst_demo.gif" alt="Label-IRST 标注与 PAMG 辅助掩膜生成" width="900">
+  <img src="assets/label_irst_demo.gif" alt="Label-IRST 标注与 PAMG 辅助掩膜生成" width="600">
 </p>
 
 ### 同步序列对比

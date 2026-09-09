@@ -31,7 +31,7 @@ This repository also includes Label-IRST, an interactive annotation tool with PA
 ### Label-IRST annotation and PAMG-assisted mask generation
 
 <p align="center">
-  <img src="assets/label_irst_demo.gif" alt="Label-IRST annotation and PAMG-assisted mask generation" width="900">
+  <img src="assets/label_irst_demo.gif" alt="Label-IRST annotation and PAMG-assisted mask generation" width="600">
 </p>
 
 ### Synchronized sequence comparison
