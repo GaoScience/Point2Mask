@@ -323,6 +323,12 @@ cite the following paper:
   pages={1-1},
   doi={10.1109/TGRS.2026.3730901}}
 ```
+# Discussion & Contact
+
+For in-depth discussions about repository implementation and experimental details, please contact us via the official email provided in our paper.
+
+When sending emails, kindly include your questions together with your name and affiliation, so we can identify you and better arrange our reply.
+
 
 ## License
 
