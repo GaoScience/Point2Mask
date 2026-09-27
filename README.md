@@ -325,9 +325,9 @@ cite the following paper:
 ```
 # Discussion & Contact
 
-For in-depth discussions about repository implementation and experimental details, please contact us via the official email provided in our paper.
-
-When sending emails, kindly include your questions together with your name and affiliation, so we can identify you and better arrange our reply.
+For in-depth discussions about experimental details, please contact us via the official email listed in our paper.
+ 
+Due to the public nature of GitHub issues, we are unable to share certain experimental details in public comments. When emailing, please provide your name and affiliation together with your questions to facilitate our private discussion.
 
 
 ## License
