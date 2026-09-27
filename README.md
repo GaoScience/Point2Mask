@@ -323,9 +323,9 @@ cite the following paper:
   pages={1-1},
   doi={10.1109/TGRS.2026.3730901}}
 ```
-# Discussion & Contact
+## Discussion & Contact
 
-For in-depth discussions about experimental details, please contact us via the official email listed in our paper.
+For in-depth discussions about project details, please contact us via the official email listed in our paper.
 
 When sending emails, kindly include your questions together with your name and affiliation, so we can identify you and better arrange our reply.
 
